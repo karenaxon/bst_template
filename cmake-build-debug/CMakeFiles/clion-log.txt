@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug - G -G "CodeBlocks - Unix Makefiles" /Users/kaxon/Documents/coding/git_shared_code/c++/bst_template
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/kaxon/Documents/coding/git_shared_code/c++/bst_template/cmake-build-debug

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kaxon/Documents/coding/git_shared_code/c++/bst_template/BST.h
+string
+-
+sstream
+-
+
+/Users/kaxon/Documents/coding/git_shared_code/c++/bst_template/bst_test.cpp
+BST.h
+/Users/kaxon/Documents/coding/git_shared_code/c++/bst_template/BST.h
+iostream
+-
+string
+-
+fstream
+-
+
